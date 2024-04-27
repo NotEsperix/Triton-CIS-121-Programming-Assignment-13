@@ -1,5 +1,4 @@
 **Triton College CIS 121 Coursework Programming Assignment 13**
-(No IPO this week)
 
 *Introduction*
 
